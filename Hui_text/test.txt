@@ -1,0 +1,10 @@
+./images/110.png ./annotations_Hui/110.png
+./images/136.png ./annotations_Hui/136.png
+./images/160.png ./annotations_Hui/160.png
+./images/171.png ./annotations_Hui/171.png
+./images/172.png ./annotations_Hui/172.png
+./images/25.png ./annotations_Hui/25.png
+./images/37.png ./annotations_Hui/37.png
+./images/57.png ./annotations_Hui/57.png
+./images/73.png ./annotations_Hui/73.png
+./images/81.png ./annotations_Hui/81.png
